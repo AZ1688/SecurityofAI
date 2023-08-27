@@ -1,1 +1,1 @@
-# SecurityofAI
+# Security of AI
