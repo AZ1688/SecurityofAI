@@ -14,6 +14,7 @@
 - Nvidia’s AI red team framework: :https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
 - IBM AI fairness 360 tools to detect bias: https://www.ibm.com/opensource/open/projects/ai-fairness-360/ -
 - tldrsec on a similar topic: How to securely build product features using AI APIs (tldrsec.com)
+- MITRE Atalas & Mitigations  https://atlas.mitre.org/mitigations
 
 
 # Risk areas & tools 
