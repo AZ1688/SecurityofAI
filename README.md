@@ -52,6 +52,15 @@
 - Triveto language model whitepaper: https://www.truveta.com/wp-content/uploads/2023/04/Truveta-Language-Model.pdf
 - 
 # Playgrounds
+- Lope Kinz: GPT4 Free, PentestGPT, . ChatGPT client
+- Gelei Deng: Pentest GPT
+- GPT 3 Vulnerability Scanner
+- Orange Software for Customer ML models
+- AutocodePro
+- smol.ai - Promopt engineering
+- GreyDGL/PentestGPT
+- dorkgpt
+- GPT Integration - Nucliei, BurpGPT, HackGPT, CloudGPT, 
 - Aviary Explorer: A way to compare results from open source LLMs: Aviary Explorer (anyscale.com)
 - A playground for prompt injection. Basically tricking LLMs in revealing secrets https://gandalf.lakera.ai/
 - Holistic evaluation of LLMs (HELM) from Stanford: https://crfm.stanford.edu/helm/latest/ 
