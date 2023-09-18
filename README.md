@@ -15,7 +15,21 @@
 - IBM AI fairness 360 tools to detect bias: https://www.ibm.com/opensource/open/projects/ai-fairness-360/ -
 - tldrsec on a similar topic: How to securely build product features using AI APIs (tldrsec.com)
 - MITRE Atalas & Mitigations  https://atlas.mitre.org/mitigations
+- Google Secure AI Framework (SAIF)
 
+
+# Red Teaming for AI/ML
+- https://www.airedteam.org/
+- Giskard  The testing framework for ML models, LLMon monitoring solution
+-  Microsoft https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming
+-  Hugging Face https://huggingface.co/blog/red-teaming
+-  Meta’s Bot Adversarial Dialog dataset
+-  Anthropic’s red-teaming attempts
+-  AI2’s RealToxicityPrompts
+- Whitehouse https://www.whitehouse.gov/ostp/news-updates/2023/08/29/red-teaming-large-language-models-to-identify-novel-ai-risks/
+- Google https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/
+- Anthropic: https://www.anthropic.com/index/frontier-threats-red-teaming-for-ai-safety
+- Auto red Teaming LLM https://github.com/traghav/auto-redteam#auto-red-teaming-llms
 
 # Risk areas & tools 
 - Rebuff: A self-hardening prompt injection detector.
@@ -25,7 +39,8 @@
 - Data leakage, Inadequate sandboxing
 - LLM vulnerability scanner - garak https://github.com/leondz/garak
 - Arthur Shield: The First Firewall for LLMs
-- Lakera is an AI security company. They have specific products to protect against Prompt injection: Lakera Guard | Unlock LLMs for Production | Lakera – Protecting AI teams that disrupt the world. 
+- Lakera is an AI security company. They have specific products to protect against Prompt injection: Lakera Guard | Unlock LLMs for Production | Lakera – Protecting AI teams that disrupt the world.
+- Generative Discriminator Guided Sequence Generation (GeDi) or Plug and Play Language Models (PPLM) 
 
 # AI Security for Enterprise
 - Enterprise architectures for LLMs (a16z)
